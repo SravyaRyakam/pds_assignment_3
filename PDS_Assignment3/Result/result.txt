@@ -1,0 +1,5 @@
+1. The mean and maximum values of the population exceed those of the sample.
+
+2. I've noticed that the percentile in the population exceeds that in the sample.
+
+3. There exists a subtle distinction between the statistics of the population and those derived from bootstrapping.
